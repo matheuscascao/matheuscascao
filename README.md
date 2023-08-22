@@ -4,9 +4,7 @@ Who am I?
 ## Skills/Toll which I use in a daily basis:
 | Front | Back | Infra |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=js,ts,react)
-|![Base](https://skillicons.dev/icons?i=python,nodejs,ts,express,cs,dotnet)   
-|![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
+|![Base](https://skillicons.dev/icons?i=js,ts,react) |![Base](https://skillicons.dev/icons?i=python,nodejs,ts,express,cs,dotnet)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
   
 ### Currently Studying:
 ![My Skills](https://skillicons.dev/icons?i=java,go,mongo,aws,c,cpp)
