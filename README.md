@@ -4,7 +4,7 @@ Who am I?
 ## Skills:
 | Front | Back | Infra |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,cs,fastapi,ts,express,dotnet&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
+|![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,fastapi,ts,express&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
   
 ### Currently Studying:
 ![My Skills](https://skillicons.dev/icons?i=java,go,mongo,aws,c,cpp)
