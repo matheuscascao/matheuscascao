@@ -6,7 +6,7 @@ Who am I?
 |----------|---------|-----------|
 |![Base](https://skillicons.dev/icons?i=js,ts,react,redux,materialui&perline=3) |![Base](https://skillicons.dev/icons?i=python,nodejs,fastapi,ts,express&perline=3)  |![Base](https://skillicons.dev/icons?i=linux,azure,docker,kubernetes,heroku)   |                     
   
-### Currently Studying:
+### Currently Learning:
 ![My Skills](https://skillicons.dev/icons?i=java,go,mongo,aws,c,cpp)
   
 That's it.
